@@ -44,7 +44,7 @@ Run the database scripts:
   Execute the provided SQL scripts to set up the tables, relationships, and any sample data.<br>
   You can find the SQL scripts in the scripts folder (or wherever you place them).
 
-##Contribution and Thanks:
+## Contribution and Thanks:
 
 Feel free to raise issues, provide feedback, and submit pull requests, as we believe in the power of collaboration and open-source development.<br>
 A huge thank you to each project member for their dedicated contributions to their respective tasks!<br>
