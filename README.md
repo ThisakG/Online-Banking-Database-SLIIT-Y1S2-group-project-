@@ -1,7 +1,8 @@
 # Online-Banking-Database-SLIIT-Y1S2-group-project-
 # SQL Database Project
 
-This repository contains a SQL database project created using Microsoft SQL Server. The database is designed to handle data of an online banking platform (Helix Banking): all the neccessary customer data, employee data, information on banking facilities, and more. 
+
+This repository contains a SQL database project created using Microsoft SQL Server. The database is designed to handle data of an online banking platform (Helix Banking): all the neccessary customer data, employee data, information on banking facilities, and more. This GitHub Repository contains all the necessary codes and files created as the group project for the Year 1 Semester 2 Information Systems and Data Modelling  Module at SLIIT.
 
 
 ## Technologies Used
@@ -43,4 +44,9 @@ Run the database scripts:
   Execute the provided SQL scripts to set up the tables, relationships, and any sample data.<br>
   You can find the SQL scripts in the scripts folder (or wherever you place them).
 
+##Contribution and Thanks:
+
+Feel free to raise issues, provide feedback, and submit pull requests, as we believe in the power of collaboration and open-source development.<br>
+A huge thank you to each project member for their dedicated contributions to their respective tasks!<br>
+Thank you for visiting our repository, and we look forward to hearing from you to make this web application even better!
 
